@@ -9,3 +9,9 @@ This is a tool created to navigate Youtube, this makes use of the Youtube API in
 ## Installing dependencies
 
 ```pip install -r requirements.txt```
+
+## Getting Youtube API Key
+
+https://developers.google.com/youtube/v3/getting-started
+
+Youtube API key is defined in another file ```key.py``` from which it is imported, this is required for more security. This file is added to gitignore.
